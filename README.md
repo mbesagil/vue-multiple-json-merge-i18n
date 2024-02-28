@@ -92,8 +92,8 @@ src
 | | |-- home.json
 | | |-- about.json
 | |-- tr
-| |-- home.json
-| |-- about.json
+| | |-- home.json
+| | |-- about.json
 ```
 
 Contribution
